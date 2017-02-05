@@ -1,0 +1,9 @@
+mkdir DigitalUnicorn
+
+cd DigitalUnicorn
+
+touch Empty
+
+cp Empty Index
+
+echo “Hello Digital Unicorn”> Index
